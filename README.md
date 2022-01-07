@@ -4,3 +4,4 @@
 Репозиторий будет обновляться по мере прочтения и использования советов, которые есть в книге 
 
 1) [Обьявление типа лучше его утверждения](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/1.ts)
+2) [Избегайте оберточных типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/2.ts)
