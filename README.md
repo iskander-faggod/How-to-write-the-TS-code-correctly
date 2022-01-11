@@ -7,4 +7,4 @@
 2) [Избегайте оберточных типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/2.ts)
 3) [Применяйте типы ко всему приложению](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/3.ts)
 4) [Знайте разницу между type/interface](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/4.ts)
-
+5) [Операции типов и обобщения сокращают повторы.](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/5.ts)
