@@ -1,4 +1,5 @@
 # Эффективный и красивый TypeScript 
+
 Этот репозиторий список основный заповедей правильного написания TS когда, которые я подчеркнул для себя из книги "Эффективный TypeScript" <hr>
 Я выбираю не все принципы, какие-то из них я сам до конца не понял, какие-то пока не использовал на практике.
 Репозиторий будет обновляться по мере прочтения и использования советов, которые есть в книге 
@@ -8,3 +9,5 @@
 3) [Применяйте типы ко всему приложению](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/3.ts)
 4) [Знайте разницу между type/interface](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/4.ts)
 5) [Операции типов и обобщения сокращают повторы.](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/5.ts)
+
+P.S Книга "Эффективный TypeScript" Дэна Вандеркама
