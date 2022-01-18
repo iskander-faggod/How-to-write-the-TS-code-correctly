@@ -9,5 +9,6 @@
 3) [Применяйте типы ко всему приложению](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/3.ts)
 4) [Знайте разницу между type/interface](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/4.ts)
 5) [Операции типов и обобщения сокращают повторы.](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/5.ts)
+6) [Используйте readonly против ошибок, которые связаны с изменяемостью.](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/6.ts)
 
 P.S Книга "Эффективный TypeScript" Дэна Вандеркама
