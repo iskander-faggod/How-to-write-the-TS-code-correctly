@@ -12,6 +12,7 @@
 6) [Используйте readonly против ошибок, которые связаны с изменяемостью.](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/6.ts)
 7) [Не засоряйте код лишними аннотациями типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/7.ts)
 8) [Для каждых типов разные переменные](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/8.ts)
+9) [Контролируйте расширение типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/9.ts)
 
 
 P.S Книга "Эффективный TypeScript" Дэна Вандеркама
