@@ -42,7 +42,7 @@ const iskander : {
     name : 'Iskander',
     born : {
         where: "Surgut",
-        when : new Date('2021/10/3'),
+        when : new Date('2021 10 3'),
     },
     died : {
         where: "Saint-Petersbutg",
