@@ -13,6 +13,9 @@
 7) [Не засоряйте код лишними аннотациями типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/7.ts)
 8) [Для каждых типов разные переменные](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/8.ts)
 9) [Контролируйте расширение типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/9.ts)
+10) [Старайтесь сужать типы](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/10.ts)
+11) [Создавайте обьекты целиком](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/11.ts)
+
 
 
 P.S Книга "Эффективный TypeScript" Дэна Вандеркама
