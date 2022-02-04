@@ -15,6 +15,7 @@
 9) [Контролируйте расширение типов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/9.ts)
 10) [Старайтесь сужать типы](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/10.ts)
 11) [Создавайте обьекты целиком](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/11.ts)
+12) [Для асинхронного кода используйте функции async вместо обратных вызовов](https://github.com/iskander-faggod/How-to-write-the-TS-code-correctly/blob/main/12.ts)
 
 
 
